@@ -1,6 +1,5 @@
 package_sets:
   - ./p1
   - ./p2
-  - ./p3
 
 layout:
